@@ -1,3 +1,11 @@
+AnsiEsc.vim
 neobundle.vim
 neomru.vim
+nerdtree
+tcomment_vim
 unite.vim
+vim-endwise
+vim-fugitive
+vim-indent-guides
+vim-rails
+vim-trailing-whitespace
