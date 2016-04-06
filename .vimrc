@@ -139,7 +139,8 @@ set whichwrap=b,s,h,l,<,>,[,]
 syntax on
 
 " カラースキーマの指定
-colorscheme desert
+let g:hybrid_reduced_contrast = 1
+colorscheme hybrid
 
 " 行番号の色
 highlight LineNr ctermfg=darkyellow
